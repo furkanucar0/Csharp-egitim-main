@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.exe
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.deps.json
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.runtimeconfig.json
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\refint\static-sinif-ve-uyeler.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.genruntimeconfig.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\csharp-egitim\static-sinif-ve-uyeler\obj\Debug\net6.0\ref\static-sinif-ve-uyeler.dll
