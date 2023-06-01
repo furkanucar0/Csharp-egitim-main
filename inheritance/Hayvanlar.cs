@@ -6,7 +6,7 @@ namespace inheritance
     {
         public void Adaptasyon()
         {
-            Console.WriteLine("Canlılar adaptasyon kurabilir");
+            Console.WriteLine("Canlilar adaptasyon kurabilir");
         }
     }
     public class sürüngenler:Hayvanlar

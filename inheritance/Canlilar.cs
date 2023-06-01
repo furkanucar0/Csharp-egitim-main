@@ -6,15 +6,15 @@ namespace inheritance
     {
         public void beslenme()
         {
-            Console.WriteLine("Canlılar beslenir.");
+            Console.WriteLine("Canlilar beslenir.");
         }
         public void Solunum()
         {
-            Console.WriteLine("Canlılar solunum yapar.");
+            Console.WriteLine("Canlilar solunum yapar.");
         }
-        public void Boşaltım()
+        public void Boşaltim()
         {
-            Console.WriteLine("Canlılar Bolaktım yapar."); 
+            Console.WriteLine("Canlilar Bolaktim yapar."); 
         }
     }
 }

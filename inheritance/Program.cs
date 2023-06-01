@@ -9,18 +9,18 @@ namespace inheritance
             TohumluBitkiler tohumlubitki = new TohumluBitkiler();
             tohumlubitki.beslenme();
             tohumlubitki.Solunum();
-            tohumlubitki.Boşaltım();
+            tohumlubitki.Boşaltim();
             tohumlubitki.FotosentezYapmak();
             tohumlubitki.tohumlacogalma();
 
                 System.Console.WriteLine("*****************");
 
-            kuslar martı = new kuslar();
-            martı.Solunum();
-            martı.beslenme();
-            martı.Boşaltım();
-            martı.Adaptasyon();
-            martı.ucmak();
+            kuslar marti = new kuslar();
+            marti.Solunum();
+            marti.beslenme();
+            marti.Boşaltim();
+            marti.Adaptasyon();
+            marti.ucmak();
 
            
             Console.ReadKey(); 

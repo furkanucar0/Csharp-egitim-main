@@ -13,14 +13,14 @@ namespace inheritance
     {
         public void tohumlacogalma()
         {
-            Console.WriteLine("Tohumlu bitkiler tohumla çoğalır.");
+            Console.WriteLine("Tohumlu bitkiler tohumla çoğalir.");
         }
     }
     public class tohumsuzbitkiler:Bitkiler
     {
         public void sporlacogalma()
         {
-            System.Console.WriteLine("Tohumsuz bitkiler spor ile çoğalır.");
+            System.Console.WriteLine("Tohumsuz bitkiler spor ile çoğalir.");
         }
     }
 }
