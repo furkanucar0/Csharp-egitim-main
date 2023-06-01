@@ -4,17 +4,17 @@ namespace inheritance
 {
     public class Canlilar
     {
-        public void beslenme()
+        protected void beslenme()
         {
             Console.WriteLine("Canlilar beslenir.");
         }
-        public void Solunum()
+        protected void Solunum()
         {
             Console.WriteLine("Canlilar solunum yapar.");
         }
-        public void Boşaltim()
+        protected void Boşaltim()
         {
-            Console.WriteLine("Canlilar Bolaktim yapar."); 
+            Console.WriteLine("Canlilar Bosaltim yapar."); 
         }
     }
 }

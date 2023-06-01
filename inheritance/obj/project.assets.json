@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\KAAN\\.nuget\\packages\\": {}
+    "C:\\Users\\furka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KAAN\\Desktop\\pratikler-egitim\\inheritance\\inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\Csharp-egitim-main\\inheritance\\inheritance.csproj",
       "projectName": "inheritance",
-      "projectPath": "C:\\Users\\KAAN\\Desktop\\pratikler-egitim\\inheritance\\inheritance.csproj",
-      "packagesPath": "C:\\Users\\KAAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KAAN\\Desktop\\pratikler-egitim\\inheritance\\obj\\",
+      "projectPath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\Csharp-egitim-main\\inheritance\\inheritance.csproj",
+      "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\Csharp-egitim-main\\inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KAAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\furka\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

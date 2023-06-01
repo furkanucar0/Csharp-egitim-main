@@ -4,7 +4,7 @@ namespace inheritance
 {
     public class Hayvanlar:Canlilar
     {
-        public void Adaptasyon()
+        protected void Adaptasyon()
         {
             Console.WriteLine("Canlilar adaptasyon kurabilir");
         }
@@ -18,6 +18,12 @@ namespace inheritance
     }
     public class kuslar:Hayvanlar
     {
+        public kuslar(){
+            base.Adaptasyon();
+            base.beslenme();
+            base.Boşaltim();
+            base.Solunum();
+        }
         public void ucmak()
         {
             System.Console.WriteLine("Kuşlar Uçar");
