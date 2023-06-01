@@ -1,0 +1,15 @@
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\bin\Debug\net6.0\hazir-metotlar-datatime-math.exe
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\bin\Debug\net6.0\hazir-metotlar-datatime-math.deps.json
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\bin\Debug\net6.0\hazir-metotlar-datatime-math.runtimeconfig.json
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\bin\Debug\net6.0\hazir-metotlar-datatime-math.dll
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\bin\Debug\net6.0\hazir-metotlar-datatime-math.pdb
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\hazir-metotlar-datatime-math.csproj.AssemblyReference.cache
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\hazir-metotlar-datatime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\hazir-metotlar-datatime-math.AssemblyInfoInputs.cache
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\hazir-metotlar-datatime-math.AssemblyInfo.cs
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\hazir-metotlar-datatime-math.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\hazir-metotlar-datatime-math.dll
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\refint\hazir-metotlar-datatime-math.dll
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\hazir-metotlar-datatime-math.pdb
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\hazir-metotlar-datatime-math.genruntimeconfig.cache
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-datatime-math\obj\Debug\net6.0\ref\hazir-metotlar-datatime-math.dll

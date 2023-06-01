@@ -1,0 +1,15 @@
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.csproj.AssemblyReference.cache
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.AssemblyInfoInputs.cache
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.AssemblyInfo.cs
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.exe
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.deps.json
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.runtimeconfig.json
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.dll
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.pdb
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.dll
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\refint\hazir-metotlar-string.dll
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.pdb
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.genruntimeconfig.cache
+C:\Users\KAAN\Desktop\Pratikler\hazir-metotlar-string\obj\Debug\net6.0\ref\hazir-metotlar-string.dll

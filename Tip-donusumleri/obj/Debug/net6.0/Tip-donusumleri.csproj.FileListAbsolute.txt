@@ -1,0 +1,15 @@
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\bin\Debug\net6.0\Tip-donusumleri.exe
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\bin\Debug\net6.0\Tip-donusumleri.deps.json
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\bin\Debug\net6.0\Tip-donusumleri.runtimeconfig.json
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\bin\Debug\net6.0\Tip-donusumleri.dll
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\bin\Debug\net6.0\Tip-donusumleri.pdb
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\Tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\Tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\Tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\Tip-donusumleri.AssemblyInfo.cs
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\Tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\Tip-donusumleri.dll
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\refint\Tip-donusumleri.dll
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\Tip-donusumleri.pdb
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\Tip-donusumleri.genruntimeconfig.cache
+C:\Users\KAAN\Desktop\pratikler-egitim\Tip-donusumleri\obj\Debug\net6.0\ref\Tip-donusumleri.dll

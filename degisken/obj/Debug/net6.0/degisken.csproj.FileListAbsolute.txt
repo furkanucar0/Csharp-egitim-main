@@ -1,0 +1,15 @@
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\bin\Debug\net6.0\degisken.exe
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\bin\Debug\net6.0\degisken.deps.json
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\bin\Debug\net6.0\degisken.runtimeconfig.json
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\bin\Debug\net6.0\degisken.dll
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\bin\Debug\net6.0\degisken.pdb
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\degisken.csproj.AssemblyReference.cache
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\degisken.AssemblyInfoInputs.cache
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\degisken.AssemblyInfo.cs
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\degisken.dll
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\refint\degisken.dll
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\degisken.pdb
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\degisken.genruntimeconfig.cache
+C:\Users\KAAN\Desktop\pratikler-egitim\degisken\obj\Debug\net6.0\ref\degisken.dll

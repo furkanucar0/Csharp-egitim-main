@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hazir-metotlar-datatime-math/1.0.0": {
+        "runtime": {
+          "hazir-metotlar-datatime-math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hazir-metotlar-datatime-math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
