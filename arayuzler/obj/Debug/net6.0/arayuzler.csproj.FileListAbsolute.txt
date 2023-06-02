@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\bin\Debug\net6.0\arayuzler.exe
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\bin\Debug\net6.0\arayuzler.deps.json
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\bin\Debug\net6.0\arayuzler.runtimeconfig.json
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\bin\Debug\net6.0\arayuzler.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\bin\Debug\net6.0\arayuzler.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\arayuzler.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\arayuzler.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\arayuzler.AssemblyInfo.cs
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\arayuzler.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\refint\arayuzler.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\arayuzler.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\arayuzler.genruntimeconfig.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\arayuzler\obj\Debug\net6.0\ref\arayuzler.dll
