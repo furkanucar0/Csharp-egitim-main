@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\bin\Debug\net6.0\Interface-ornek.exe
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\bin\Debug\net6.0\Interface-ornek.deps.json
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\bin\Debug\net6.0\Interface-ornek.runtimeconfig.json
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\bin\Debug\net6.0\Interface-ornek.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\bin\Debug\net6.0\Interface-ornek.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\Interface-ornek.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\Interface-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\Interface-ornek.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\Interface-ornek.AssemblyInfo.cs
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\Interface-ornek.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\Interface-ornek.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\refint\Interface-ornek.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\Interface-ornek.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\Interface-ornek.genruntimeconfig.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\Interface-ornek\obj\Debug\net6.0\ref\Interface-ornek.dll
