@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\bin\Debug\net6.0\abtract.exe
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\bin\Debug\net6.0\abtract.deps.json
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\bin\Debug\net6.0\abtract.runtimeconfig.json
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\bin\Debug\net6.0\abtract.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\bin\Debug\net6.0\abtract.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\abtract.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\abtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\abtract.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\abtract.AssemblyInfo.cs
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\abtract.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\abtract.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\refint\abtract.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\abtract.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\abtract.genruntimeconfig.cache
+C:\Users\furka\Desktop\pratikler-egitim-main\Csharp-egitim-main\abtract\obj\Debug\net6.0\ref\abtract.dll
