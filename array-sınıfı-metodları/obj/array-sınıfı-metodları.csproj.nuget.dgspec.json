@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\csharp-egitim-main\\array-sınıfı-metodları\\array-sınıfı-metodları.csproj": {}
+    "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\Csharp-egitim-main\\array-sınıfı-metodları\\array-sınıfı-metodları.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\csharp-egitim-main\\array-sınıfı-metodları\\array-sınıfı-metodları.csproj": {
+    "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\Csharp-egitim-main\\array-sınıfı-metodları\\array-sınıfı-metodları.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\csharp-egitim-main\\array-sınıfı-metodları\\array-sınıfı-metodları.csproj",
+        "projectUniqueName": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\Csharp-egitim-main\\array-sınıfı-metodları\\array-sınıfı-metodları.csproj",
         "projectName": "array-sınıfı-metodları",
-        "projectPath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\csharp-egitim-main\\array-sınıfı-metodları\\array-sınıfı-metodları.csproj",
+        "projectPath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\Csharp-egitim-main\\array-sınıfı-metodları\\array-sınıfı-metodları.csproj",
         "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\csharp-egitim-main\\array-sınıfı-metodları\\obj\\",
+        "outputPath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\Csharp-egitim-main\\array-sınıfı-metodları\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\furka\\AppData\\Roaming\\NuGet\\NuGet.Config"
