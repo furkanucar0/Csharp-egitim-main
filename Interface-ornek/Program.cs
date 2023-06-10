@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Interface_ornek
+﻿namespace Interface_ornek
 {
     class program
     {
